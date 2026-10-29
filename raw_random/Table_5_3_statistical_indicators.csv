@@ -1,0 +1,13 @@
+cipher,category,IC,Entropy,Chi2_per_letter,Space_ratio,Upper_ratio
+Caesar,Long,0.0647,4.1144,11.4913,0.1703,0.0924
+Caesar,Medium,0.0629,3.9779,12.6364,0.1697,0.096
+Caesar,Short,0.0584,3.4375,18.4278,0.1517,0.1065
+Playfair,Long,0.0498,4.3864,7.3372,0.0,1.0
+Playfair,Medium,0.0487,4.2361,8.4414,0.0,1.0
+Playfair,Short,0.0458,3.6307,13.4472,0.0,1.0
+Rail Fence,Long,0.0647,4.1144,0.1979,0.1703,0.0924
+Rail Fence,Medium,0.0629,3.9779,0.4528,0.1697,0.096
+Rail Fence,Short,0.0584,3.4375,1.9456,0.1517,0.1065
+Vigenère,Long,0.0427,4.5354,7.2093,0.1703,0.0924
+Vigenère,Medium,0.0423,4.3597,8.6198,0.1697,0.096
+Vigenère,Short,0.0414,3.6606,15.2475,0.1517,0.1065

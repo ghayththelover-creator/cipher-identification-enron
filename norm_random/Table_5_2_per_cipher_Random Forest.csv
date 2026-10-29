@@ -1,0 +1,5 @@
+Cipher,Precision,Recall,F1
+Caesar,81.09,82.98,82.03
+Playfair,65.44,96.4,77.96
+Rail Fence,95.67,90.9,93.23
+Vigenère,97.46,53.95,69.45

@@ -1,0 +1,41 @@
+Cipher,Ciphertext,Plaintext,Char,Weight
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,q,0.269995889596551
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports., ,0.2547054180349586
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,a,0.19982865867714764
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,p,0.0854004955671068
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,t,0.07393333474020584
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,m,-0.05739003973949891
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,Q,0.05006855673897986
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,b,-0.04389081341896972
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,k,-0.03785232753979298
+Caesar,Qp Tai mdq kag pauzs az ftqeq dqbadfe.,Ed How are you doing on these reports.,i,-0.03351059726095249
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,Y,0.004007513850852309
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,D,0.0036528612805913486
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,B,0.0036497477944260966
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,Z,0.0035321836532195144
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,Q,0.0034722830817753426
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,C,0.0033048628970731354
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,N,0.003237717246554386
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,F,0.002983086272837833
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,P,0.0029382608510435696
+Playfair,HAYDZDBCGTQFNPOLNDQYCHCBYBFPKY,Ed How are you doing on these reports.,H,0.00206525462757607
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,o,0.08453477562204097
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,e,0.08240778526310341
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,w,-0.031929990535404976
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,p,-0.027119634094839848
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,n,0.026561290258031254
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports., ,0.022964067918157492
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,t,0.02259836879559798
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,a,0.016063281352048493
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,s,0.015594424916642076
+Rail Fence,E eduds  ooerHyiheo ntpweg o. r nrsaot,Ed How are you doing on these reports.,i,0.015115598430059071
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,v,0.1437600968655834
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,m,0.1279925750177027
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,e,0.10420993239721045
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,r,0.09178150387307041
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,p,0.0915806910013879
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,d,0.07107015248305393
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,x,0.06449079414350256
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,a,0.058740789991968016
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,o,0.05646769559870033
+Vigenère,Bs Rxe xgo hwr syrvd dx cpbho ammdbca.,Ed How are you doing on these reports.,b,-0.053661384649696164
