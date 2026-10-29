@@ -1,0 +1,15 @@
+Condition,Model,Acc_seen,Acc_unseen,Recall_Caesar,Recall_Playfair,Recall_Rail Fence,Recall_Vigenère
+norm_fixed,BiLSTM,99.35,54.14,7.18,24.53,98.93,85.93
+norm_fixed,CAF-Net,99.6,76.84,65.62,49.35,99.25,93.16
+norm_fixed,CNN,99.37,52.84,6.95,20.61,99.1,84.7
+norm_fixed,RF-CAF,96.43,95.16,93.97,96.75,98.16,91.76
+norm_fixed,RF-Stat,84.47,76.42,82.97,54.11,96.14,72.43
+norm_fixed,RF-Stat+,91.75,89.27,86.31,91.77,96.04,82.96
+norm_fixed,Random Forest,96.97,49.31,5.38,12.96,96.69,82.2
+raw_fixed,BiLSTM,99.8,75.5,7.05,99.99,99.64,95.35
+raw_fixed,CAF-Net,99.86,83.78,37.68,100.0,99.68,97.76
+raw_fixed,CNN,99.82,75.51,6.35,99.95,99.58,96.16
+raw_fixed,RF-CAF,98.05,97.34,94.84,100.0,98.75,95.75
+raw_fixed,RF-Stat,94.1,92.94,89.01,100.0,97.36,85.38
+raw_fixed,RF-Stat+,94.68,93.16,89.62,100.0,97.18,85.83
+raw_fixed,Random Forest,97.73,72.01,4.42,98.69,97.28,87.66

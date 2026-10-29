@@ -1,0 +1,29 @@
+Condition,Model,Short,Medium,Long
+raw_fixed,Random Forest,93.74 ± 0.14,99.53 ± 0.09,99.95 ± 0.02
+raw_fixed,RF-Stat,84.10 ± 0.12,98.30 ± 0.03,99.96 ± 0.01
+raw_fixed,RF-Stat+,85.67 ± 0.18,98.46 ± 0.02,99.97 ± 0.02
+raw_fixed,CNN,99.46 ± 0.07,99.99 ± 0.01,100.00 ± 0.00
+raw_fixed,BiLSTM,99.42 ± 0.07,99.99 ± 0.01,99.99 ± 0.01
+raw_fixed,RF-CAF,94.39 ± 0.17,99.81 ± 0.02,99.99 ± 0.01
+raw_fixed,CAF-Net,99.58 ± 0.06,99.99 ± 0.01,100.00 ± 0.00
+raw_random,Random Forest,70.49 ± 0.76,92.94 ± 0.59,98.71 ± 0.17
+raw_random,RF-Stat,82.51 ± 0.26,97.45 ± 0.06,99.81 ± 0.01
+raw_random,RF-Stat+,83.38 ± 0.23,97.56 ± 0.03,99.88 ± 0.00
+raw_random,CNN,90.81 ± 0.58,98.76 ± 0.06,99.63 ± 0.03
+raw_random,BiLSTM,92.12 ± 1.06,98.71 ± 0.26,99.49 ± 0.18
+raw_random,RF-CAF,93.24 ± 0.18,99.66 ± 0.01,99.99 ± 0.01
+raw_random,CAF-Net,94.25 ± 0.14,99.74 ± 0.01,99.99 ± 0.00
+norm_fixed,Random Forest,91.21 ± 0.76,99.75 ± 0.02,100.00 ± 0.00
+norm_fixed,RF-Stat,66.92 ± 0.31,88.14 ± 0.22,98.48 ± 0.01
+norm_fixed,RF-Stat+,77.95 ± 0.15,97.44 ± 0.03,99.96 ± 0.02
+norm_fixed,CNN,98.18 ± 0.16,99.93 ± 0.02,100.00 ± 0.00
+norm_fixed,BiLSTM,98.13 ± 0.06,99.93 ± 0.01,100.00 ± 0.00
+norm_fixed,RF-CAF,89.97 ± 0.17,99.39 ± 0.04,99.99 ± 0.01
+norm_fixed,CAF-Net,98.85 ± 0.10,99.95 ± 0.00,100.00 ± 0.00
+norm_random,Random Forest,59.37 ± 0.40,85.90 ± 0.14,97.64 ± 0.10
+norm_random,RF-Stat,60.79 ± 0.42,82.91 ± 0.04,94.20 ± 0.07
+norm_random,RF-Stat+,74.90 ± 0.34,96.45 ± 0.08,99.80 ± 0.02
+norm_random,CNN,75.14 ± 1.10,95.16 ± 0.17,99.35 ± 0.05
+norm_random,BiLSTM,79.19 ± 0.96,96.55 ± 0.17,99.49 ± 0.12
+norm_random,RF-CAF,88.16 ± 0.38,99.26 ± 0.05,99.99 ± 0.01
+norm_random,CAF-Net,88.52 ± 0.39,99.30 ± 0.07,99.99 ± 0.00

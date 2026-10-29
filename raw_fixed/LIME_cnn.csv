@@ -1,0 +1,41 @@
+Cipher,Ciphertext,Plaintext,Char,Weight
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,h,0.16687909767224507
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,r,0.13328866309619383
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,l,0.07205216680435292
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports., ,-0.04589588412426275
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,w,0.04275033518412002
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,b,-0.03657906237255523
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,d,0.031104676677699974
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,k,0.030950987250454136
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,g,-0.02884771314344593
+Caesar,Hg Krz duh brx grlqj rq wkhvh uhsruwv.,Ed How are you doing on these reports.,j,0.023347924146023245
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,M,0.008449475163527733
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,F,0.00810835165932697
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,N,0.0077912240420141615
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,L,0.007784836793210046
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,K,0.007517588166651208
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,A,0.006577256197119542
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,C,0.004440947432163711
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,X,0.004172866636800054
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,H,0.004055984629319844
+Playfair,KCFHXNMKHNZCAFYQNAPDILKMFLNMLT,Ed How are you doing on these reports.,D,0.003772244175080835
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,e,0.031671881670241146
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports., ,0.030250215455973048
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,t,0.026039686835677422
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,n,0.02389824162943428
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,o,0.022641987889035903
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,a,0.020687200094935434
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,s,0.014624789899730026
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,d,-0.011320864498034391
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,h,-0.009714592235241492
+Rail Fence,Eoroo tepsdHwaeyudigo hs eot.    nnerr,Ed How are you doing on these reports.,w,-0.007791714341949754
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,v,0.07549149391269802
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,q,0.06623713082848616
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,g,0.047742955456614306
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,x,0.03730534498224743
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,f,0.028416352903465444
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,c,0.02826070925679459
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,w,0.021611987625873214
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,i,0.020220063301521915
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,k,0.01927126972275843
+Vigenère,Wh Jin ikc qsw xfqge gr vbvax pwtqlka.,Ed How are you doing on these reports.,b,0.01336910892170792

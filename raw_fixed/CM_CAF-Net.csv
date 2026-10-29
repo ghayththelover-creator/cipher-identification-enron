@@ -1,0 +1,5 @@
+,Caesar,Playfair,Rail Fence,Vigenère
+Caesar,13340,0,5,11
+Playfair,0,13356,0,0
+Rail Fence,4,0,13330,22
+Vigenère,9,1,12,13334

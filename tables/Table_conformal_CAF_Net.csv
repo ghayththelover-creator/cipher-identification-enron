@@ -1,0 +1,49 @@
+Condition,Test,Mode,Category,Coverage,Avg_set_size,Singleton_rate,Singleton_accuracy
+norm_fixed,Seen keys,Mondrian (by length),Short,98.95,1.0,100.0,98.95
+norm_fixed,Seen keys,Mondrian (by length),Medium,100.0,1.0,100.0,100.0
+norm_fixed,Seen keys,Mondrian (by length),Long,100.0,1.0,100.0,100.0
+norm_fixed,Seen keys,Mondrian (by length),All,99.6,1.0,100.0,99.6
+norm_fixed,Seen keys,Marginal,Short,98.95,1.0,100.0,98.95
+norm_fixed,Seen keys,Marginal,Medium,100.0,1.0,100.0,100.0
+norm_fixed,Seen keys,Marginal,Long,100.0,1.0,100.0,100.0
+norm_fixed,Seen keys,Marginal,All,99.6,1.0,100.0,99.6
+norm_fixed,Unseen keys (distribution shift),Mondrian (by length),Short,64.23,1.0,100.0,64.23
+norm_fixed,Unseen keys (distribution shift),Mondrian (by length),Medium,82.03,1.0,100.0,82.03
+norm_fixed,Unseen keys (distribution shift),Mondrian (by length),Long,89.64,1.0,100.0,89.64
+norm_fixed,Unseen keys (distribution shift),Mondrian (by length),All,76.84,1.0,100.0,76.84
+norm_fixed,Unseen keys (distribution shift),Marginal,Short,64.23,1.0,100.0,64.23
+norm_fixed,Unseen keys (distribution shift),Marginal,Medium,82.03,1.0,100.0,82.03
+norm_fixed,Unseen keys (distribution shift),Marginal,Long,89.64,1.0,100.0,89.64
+norm_fixed,Unseen keys (distribution shift),Marginal,All,76.84,1.0,100.0,76.84
+norm_random,Seen keys,Mondrian (by length),Short,95.17,1.2,80.99,95.24
+norm_random,Seen keys,Mondrian (by length),Medium,99.78,1.0,100.0,99.78
+norm_random,Seen keys,Mondrian (by length),Long,99.99,1.0,100.0,99.99
+norm_random,Seen keys,Mondrian (by length),All,98.06,1.08,92.7,98.31
+norm_random,Seen keys,Marginal,Short,89.61,1.0,100.0,89.61
+norm_random,Seen keys,Marginal,Medium,99.78,1.0,100.0,99.78
+norm_random,Seen keys,Marginal,Long,99.99,1.0,100.0,99.99
+norm_random,Seen keys,Marginal,All,95.92,1.0,100.0,95.92
+raw_fixed,Seen keys,Mondrian (by length),Short,99.6,1.0,100.0,99.6
+raw_fixed,Seen keys,Mondrian (by length),Medium,99.99,1.0,100.0,99.99
+raw_fixed,Seen keys,Mondrian (by length),Long,100.0,1.0,100.0,100.0
+raw_fixed,Seen keys,Mondrian (by length),All,99.86,1.0,100.0,99.86
+raw_fixed,Seen keys,Marginal,Short,99.6,1.0,100.0,99.6
+raw_fixed,Seen keys,Marginal,Medium,99.99,1.0,100.0,99.99
+raw_fixed,Seen keys,Marginal,Long,100.0,1.0,100.0,100.0
+raw_fixed,Seen keys,Marginal,All,99.86,1.0,100.0,99.86
+raw_fixed,Unseen keys (distribution shift),Mondrian (by length),Short,78.82,1.0,100.0,78.82
+raw_fixed,Unseen keys (distribution shift),Mondrian (by length),Medium,84.43,1.0,100.0,84.43
+raw_fixed,Unseen keys (distribution shift),Mondrian (by length),Long,88.72,1.0,100.0,88.72
+raw_fixed,Unseen keys (distribution shift),Mondrian (by length),All,83.78,1.0,100.0,83.78
+raw_fixed,Unseen keys (distribution shift),Marginal,Short,78.82,1.0,100.0,78.82
+raw_fixed,Unseen keys (distribution shift),Marginal,Medium,84.43,1.0,100.0,84.43
+raw_fixed,Unseen keys (distribution shift),Marginal,Long,88.72,1.0,100.0,88.72
+raw_fixed,Unseen keys (distribution shift),Marginal,All,83.78,1.0,100.0,83.78
+raw_random,Seen keys,Mondrian (by length),Short,95.39,1.02,97.94,95.31
+raw_random,Seen keys,Mondrian (by length),Medium,99.75,1.0,100.0,99.75
+raw_random,Seen keys,Mondrian (by length),Long,99.99,1.0,100.0,99.99
+raw_random,Seen keys,Mondrian (by length),All,98.31,1.01,99.28,98.31
+raw_random,Seen keys,Marginal,Short,94.45,1.0,100.0,94.45
+raw_random,Seen keys,Marginal,Medium,99.75,1.0,100.0,99.75
+raw_random,Seen keys,Marginal,Long,99.99,1.0,100.0,99.99
+raw_random,Seen keys,Marginal,All,97.99,1.0,100.0,97.99

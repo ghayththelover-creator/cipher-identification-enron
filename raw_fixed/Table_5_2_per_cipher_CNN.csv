@@ -1,0 +1,5 @@
+Cipher,Precision,Recall,F1
+Caesar,99.87,99.89,99.88
+Playfair,99.99,99.99,99.99
+Rail Fence,99.66,99.84,99.75
+Vigenère,99.79,99.59,99.69

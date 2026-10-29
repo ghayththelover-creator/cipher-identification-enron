@@ -1,0 +1,5 @@
+Condition,Variant,Accuracy,Acc_Short,Acc_Long
+norm_random,CAF-Net (full),95.92,88.52,99.99
+norm_random,w/o attack features (STAT12 only),93.95,83.98,99.88
+norm_random,w/o length gate (concatenation),95.9,88.5,99.99
+norm_random,w/o branch dropout,95.9,88.52,99.99

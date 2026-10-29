@@ -1,0 +1,29 @@
+Condition,Model,42,43,44
+norm_fixed,BiLSTM,99.34,99.37,99.33
+norm_fixed,CAF-Net,99.59,99.58,99.63
+norm_fixed,CNN,99.41,99.41,99.28
+norm_fixed,RF-CAF,96.42,96.5,96.37
+norm_fixed,RF-Stat,84.53,84.57,84.31
+norm_fixed,RF-Stat+,91.81,91.83,91.6
+norm_fixed,Random Forest,96.85,97.29,96.78
+norm_random,BiLSTM,91.52,92.03,91.6
+norm_random,CAF-Net,95.92,96.08,95.76
+norm_random,CNN,90.08,90.25,89.21
+norm_random,RF-CAF,95.83,95.94,95.59
+norm_random,RF-Stat,79.27,79.54,78.96
+norm_random,RF-Stat+,90.5,90.52,90.03
+norm_random,Random Forest,81.06,81.1,80.58
+raw_fixed,BiLSTM,99.81,99.81,99.77
+raw_fixed,CAF-Net,99.88,99.86,99.83
+raw_fixed,CNN,99.83,99.83,99.79
+raw_fixed,RF-CAF,98.06,98.13,97.98
+raw_fixed,RF-Stat,94.17,94.1,94.02
+raw_fixed,RF-Stat+,94.69,94.77,94.58
+raw_fixed,Random Forest,97.78,97.8,97.62
+raw_random,BiLSTM,97.29,96.79,96.21
+raw_random,CAF-Net,97.97,98.05,97.94
+raw_random,CNN,96.2,96.63,96.34
+raw_random,RF-CAF,97.61,97.7,97.55
+raw_random,RF-Stat,93.36,93.31,93.03
+raw_random,RF-Stat+,93.69,93.69,93.37
+raw_random,Random Forest,87.74,87.71,86.57

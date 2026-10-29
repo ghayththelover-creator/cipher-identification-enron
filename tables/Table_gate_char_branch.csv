@@ -1,0 +1,17 @@
+Condition,Cipher,Short,Medium,Long
+norm_fixed,Caesar,0.623,0.6,0.588
+norm_fixed,Playfair,0.543,0.501,0.478
+norm_fixed,Rail Fence,0.556,0.514,0.498
+norm_fixed,Vigenère,0.601,0.584,0.57
+norm_random,Caesar,0.342,0.308,0.298
+norm_random,Playfair,0.334,0.287,0.272
+norm_random,Rail Fence,0.409,0.351,0.333
+norm_random,Vigenère,0.344,0.314,0.316
+raw_fixed,Caesar,0.593,0.569,0.554
+raw_fixed,Playfair,0.445,0.446,0.448
+raw_fixed,Rail Fence,0.533,0.513,0.496
+raw_fixed,Vigenère,0.591,0.57,0.553
+raw_random,Caesar,0.381,0.354,0.343
+raw_random,Playfair,0.381,0.36,0.358
+raw_random,Rail Fence,0.487,0.471,0.46
+raw_random,Vigenère,0.401,0.382,0.377
