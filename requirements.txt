@@ -1,0 +1,7 @@
+# Versions used in the Colab session (Python 3.13.16, NVIDIA T4)
+scikit-learn==1.6.1
+tensorflow==2.21.0
+datasketch==2.0.0
+statsmodels==0.15.0
+shap==0.54.1
+lime==0.2.0.1
